@@ -77,4 +77,4 @@ Com o servidor rodando, `npx tsx scripts/e2e-api.ts` testa o fluxo de registro p
 
 ## Sobre
 
-Projeto independente, criado com apoio de ferramentas de IA para código, imagens e renderização. Sem vínculo com nenhuma empresa. Nenhum dado real foi usado.
+Projeto independente desenvolvido como parte dos estudos de manutenção industrial e sistemas web. Sem vínculo com nenhuma empresa. Nenhum dado real foi usado.
